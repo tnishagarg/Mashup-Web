@@ -3,8 +3,6 @@
 A Flask-based web application that generates audio mashups from YouTube videos.  
 Users can provide YouTube URLs, and the app downloads, processes, and combines audio clips into a mashup.
 
-**Live Demo:** https://mashup-web-jzcz.onrender.com/
-
 ---
 
 ## Features
